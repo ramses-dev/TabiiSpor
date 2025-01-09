@@ -1,0 +1,42 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Tabii Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="tabiispor" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/43023.jpeg" group-title="TABİİ",Tabii Spor
+https://sftvrkij6gb1uvnirpbo8csgy.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-id="tabiispor1" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/43005.jpeg" group-title="TABİİ",Tabii Spor 1
+https://omtfm36b1e2hpragyzd5vwue0.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 2" tvg-language="Turkish" tvg-country="TR" tvg-id="tabiispor2" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/43008.jpeg" group-title="TABİİ",Tabii Spor 2
+https://7rxndpk01f2bvov7twjltxjrd.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 3" tvg-language="Turkish" tvg-country="TR" tvg-id="tabiispor3" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/43011.jpeg" group-title="TABİİ",Tabii Spor 3
+https://aja9qkfqmvb0zghixxrci30rj.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 4" tvg-language="Turkish" tvg-country="TR" tvg-id="tabiispor4" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/43014.jpeg" group-title="TABİİ",Tabii Spor 4
+https://ditvzpcgdznwyfx6nch4hhp69.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 5" tvg-language="Turkish" tvg-country="TR" tvg-id="tabiispor5" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/43017.jpeg" group-title="TABİİ",Tabii Spor 5
+https://bhf7hmm8y9rrhofca70k2nkf5.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 6" tvg-language="Turkish" tvg-country="TR" tvg-id="tabiispor6" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/43020.jpeg" group-title="TABİİ",Tabii Spor 6
+https://sstoobkb93qgejjfkp4ny7nxd.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="trt1" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/23846_1-0-465-262.jpeg" group-title="TABİİ",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="trtspor" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/40480_0-0-465-261.jpeg" group-title="TABİİ",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 tvg-name="A TV" tvg-language="Turkish" tvg-country="TR" tvg-id="atv" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="TABİİ",A TV
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1736394754&st=P46t-gIFAv0AmtjmSdTkUA&sid=7276m6d1zm8v&app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0&ce=3&ppid=7e3cdf143412e376bbdd70c76de0f595&dfp_paln=AQzzBGQEW24DDmgmKOopsBzn3m6KwYHGzUl4UkIU5OEAgSWFNrv-n77FzHfLI294efMTYQx_R6sSm8rsNo45fEWWNPsL7yq7VLLlIqoNnEwmPR_OwlM9Gg9BzPeuSM_LFTc6y9EpqvYBfCKueXi5l9t9TtTkvcADWfYKGn0BjWNXuUVl0Jh74NJajjYbTIAkJa9uiZNo1Cj77fU9bnUMvDvo80-M3mifuy78Xt5esx9LXk8sPXyhUu08-sQPUUksUnts2FETE3RlRjqwAAjSW7Xjw9Vsszc46bcISQWoEeRbnZHHUMak3E8A0_8Y9yjH-LquWCcl86AcS2YOBqNmpjE8ZwlAhQUdtYwxdaL7IZu6MQUZeJFKT2-3gXkZduWLPcgNBI1r2-qoDmCh3Cyvfyw4T6_ms32FgBm9UBoww8y5lqGKnDC_vd57Nm_0cdbWgF0eX8fTFYny4xFNppM3bLD2AIKi5mL78RB43IbXXB3JChNhraAD3_0nby1xIvZ05gyO8G6y3eReaiHEw7FbXJ1A0n2ImqGNYASVObceYO4ciMP0IqVVgcOnD6U1X4jMO0J3AKCLiqRWbxQiwaftLalggkPphKoK_yMVVNF_hfX34ONT1QlFwmH-sh60M_-SdoFAIjx6r1EzfrXU9wi_zguCQUXPWBvno3YctwHzHM6WoTOGV-22T8LU_xJWWZZ29EAsUyev_PliNDJw8W6Un6rFYnYNgmWumgH0ZU4j0Te2zNqu3Zcll0F4RHSqFc5FMWaGHUw47P860Mik0zdcaEvybhucOFic-9eE_N4pQ7BkCCeQhipNbtqhbdZqjtzr9kDSDNF2kj5iMMnzvJTPEi5MSge3y5Jmsgn2oFBY1imvl-nk3lQczg3qBU6IX_w4roZzLjAsWLwSIRiAGtWf0N9c1kXZWeD2-GN4s77SuSdzOOb0Lz6igqKg_hJlUcRykazU3YCDkq5FOgJ-O7weYuiWaQnGLsbeaf0u7IWjdAsXbasds8n8Le839kd7LWXiR7_w6BbsJB-k_oyLjmtlY9tDEHKhIZtBAzfFzbJAK2E.
+# ? https://c.fulltvizle.com/aytv/index.m3u8
+
+#EXTINF:-1 tvg-name="TV 8.5" tvg-language="Turkish" tvg-country="TR" tvg-id="tv8bucuk" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/tv8.5.jpg" group-title="TABİİ",TV 8.5
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
+
+#EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="tv8" tvg-logo="https://www.campaigntr.com/wp-content/uploads/2014/09/tv8-logo.png" group-title="TABİİ",TV 8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1 tvg-name="A Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="aspor" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/66a245ed1706cf2dc93216a8.jpg" group-title="TABİİ",A Spor
+https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1736395453&st=S-jjwsLgN1sjCXghEXZwKw&sid=7277njzb7ula&app=b6bf3b55-0120-4e0f-983b-a6c7969f9ec6&ce=3
+# ? https://c.fulltvizle.com/aspor/index.m3u8
