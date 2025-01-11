@@ -1,25 +1,25 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="Tabii Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="tabiispor" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/43023.jpeg" group-title="TABİİ",Tabii Spor
-https://sftvrkij6gb1uvnirpbo8csgy.medya.trt.com.tr/master.m3u8
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="Tabii Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-id="tabiispor1" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/43005.jpeg" group-title="TABİİ",Tabii Spor 1
-https://omtfm36b1e2hpragyzd5vwue0.medya.trt.com.tr/master.m3u8
+https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="Tabii Spor 2" tvg-language="Turkish" tvg-country="TR" tvg-id="tabiispor2" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/43008.jpeg" group-title="TABİİ",Tabii Spor 2
-https://7rxndpk01f2bvov7twjltxjrd.medya.trt.com.tr/master.m3u8
+https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="Tabii Spor 3" tvg-language="Turkish" tvg-country="TR" tvg-id="tabiispor3" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/43011.jpeg" group-title="TABİİ",Tabii Spor 3
-https://aja9qkfqmvb0zghixxrci30rj.medya.trt.com.tr/master.m3u8
+https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="Tabii Spor 4" tvg-language="Turkish" tvg-country="TR" tvg-id="tabiispor4" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/43014.jpeg" group-title="TABİİ",Tabii Spor 4
-https://ditvzpcgdznwyfx6nch4hhp69.medya.trt.com.tr/master.m3u8
+https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="Tabii Spor 5" tvg-language="Turkish" tvg-country="TR" tvg-id="tabiispor5" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/43017.jpeg" group-title="TABİİ",Tabii Spor 5
-https://bhf7hmm8y9rrhofca70k2nkf5.medya.trt.com.tr/master.m3u8
+https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="Tabii Spor 6" tvg-language="Turkish" tvg-country="TR" tvg-id="tabiispor6" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/43020.jpeg" group-title="TABİİ",Tabii Spor 6
-https://sstoobkb93qgejjfkp4ny7nxd.medya.trt.com.tr/master.m3u8
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="trt1" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/23846_1-0-465-262.jpeg" group-title="TABİİ",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
